@@ -1,7 +1,7 @@
 # Creating Customer Segments
 
 ## Project Overview
-*This is fourth project in the series of the projects listed in Udacity- Machine Learning Nano Degree Program.*
+
 
 A wholesale distributor in Lisbon, Portugal  recently tested a change to their delivery method for some customers, by moving from a morning delivery service five days a week to a cheaper evening delivery service three days a week.Initial testing did not discover any significant unsatisfactory results, so they implemented the cheaper option for all customers. Almost immediately, the distributor began getting complaints about the delivery service change and customers were canceling deliveries — losing the distributor more money than what was being saved. 
 
